@@ -333,8 +333,8 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     name: 'فطيره بسطرمه',
     description: 'بسطرمة بلدي منتقاة بعناية مع جبنة رومي معتقة وموتزاريلا وطماطم',
     prices: [
-      { label: 'وسط', price: 135 },
-      { label: 'كبير', price: 235 },
+      { label: 'وسط', price: 145 },
+      { label: 'كبير', price: 225 },
       { label: 'صاروخ', price: 110 }
     ],
     tags: ['popular']
