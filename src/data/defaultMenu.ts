@@ -557,7 +557,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'كريب أو كونو مقرمش محشو بكمية وفيرة من الجبنة الموتزاريلا السايحة مع خضار وصصوصات',
     prices: [
       { label: 'كريب', price: 65 },
-      { label: 'كونو', price: 75 }
+      { label: 'كونو', price: 80 }
     ]
   },
   {
@@ -567,7 +567,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'موتزاريلا، رومي، شيدر، كيري مع بطاطس صوابع وكاتشب ومايونيز',
     prices: [
       { label: 'كريب', price: 85 },
-      { label: 'كونو', price: 95 }
+      { label: 'كونو', price: 100 }
     ],
     tags: ['popular']
   },
@@ -578,7 +578,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'أصابع بطاطس فارم فريتس مقرمشة مع توابل الكريب الخاصة والموتزاريلا والمايونيز',
     prices: [
       { label: 'كريب', price: 65 },
-      { label: 'كونو', price: 75 }
+      { label: 'كونو', price: 80 }
     ]
   },
   {
@@ -588,7 +588,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'شريحة برجر لحم بقري مشوية مع خس، طماطم، صوص جبنة شيدر وموتزاريلا',
     prices: [
       { label: 'كريب', price: 90 },
-      { label: 'كونو', price: 100 }
+      { label: 'كونو', price: 105 }
     ]
   },
   {
@@ -598,7 +598,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'سجق بلدي شرقي محمر ومتبل مع خضار وصوصات كرسبي وموتزاريلا',
     prices: [
       { label: 'كريب', price: 90 },
-      { label: 'كونو', price: 100 }
+      { label: 'كونو', price: 105 }
     ]
   },
   {
@@ -608,7 +608,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'لحم مفروم بلدي معصج مع صوص جبنة وموتزاريلا وخضار مقرمش',
     prices: [
       { label: 'كريب', price: 90 },
-      { label: 'كونو', price: 100 }
+      { label: 'كونو', price: 105 }
     ]
   },
   {
@@ -618,7 +618,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'قطع هوت دوج وسوسيس ممتازة مع خردل ومايونيز وجبنة سايحة',
     prices: [
       { label: 'كريب', price: 90 },
-      { label: 'كونو', price: 100 }
+      { label: 'كونو', price: 105 }
     ]
   },
   {
@@ -628,7 +628,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'بسطرمة بلدي مع جبنة رومي وموتزاريلا وزيتون وطماطم',
     prices: [
       { label: 'كريب', price: 95 },
-      { label: 'كونو', price: 105 }
+      { label: 'كونو', price: 110 }
     ]
   },
   {
@@ -638,7 +638,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'سجق + لحم مفروم + بسطرمة + سوسيس مع موتزاريلا مضاعفة وصوص الباربكيو',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ],
     tags: ['popular']
   },
@@ -649,7 +649,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'أصابع كفتة لحم مشوية على الفحم مع طحينة وخضار وموتزاريلا',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ]
   },
   {
@@ -659,7 +659,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'شاورما صدور دجاج مشوية ومتبلة مع ثومية وموتزاريلا وخيار مخلل',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ]
   },
   {
@@ -669,7 +669,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'أصابع صدور دجاج استربس مقرمشة حارة أو عادية مع صوص الشيدر والرانش',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ],
     tags: ['popular']
   },
@@ -680,7 +680,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'قطع دجاج بانيه مقلي ذهبي مقرمش مع بطاطس وصوص مايونيز وكاتشب',
     prices: [
       { label: 'كريب', price: 85 },
-      { label: 'كونو', price: 95 }
+      { label: 'كونو', price: 100 }
     ]
   },
   {
@@ -690,7 +690,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'شرائح دجاج فاهيتا مع فلفل ألوان وبصل وتوابل مكسيكية مع موتزاريلا',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ]
   },
   {
@@ -700,7 +700,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'دجاج كرانشي شديد القرمشة مع صوص جبنة وصوص كوكتيل وموتزاريلا غنية',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ],
     tags: ['popular', 'spicy']
   },
@@ -711,7 +711,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'دجاج متبل بخلطة مكسيكانو الحارة مع فلفل هالبينو وجبن شيدر وموتزاريلا',
     prices: [
       { label: 'كريب', price: 95 },
-      { label: 'كونو', price: 105 }
+      { label: 'كونو', price: 120 }
     ],
     tags: ['spicy']
   },
@@ -722,7 +722,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'مزيج فاخر من البانيه والاستربس والشاورما مع صوص رانش وموتزاريلا',
     prices: [
       { label: 'كريب', price: 115 },
-      { label: 'كونو', price: 125 }
+      { label: 'كونو', price: 130 }
     ],
     tags: ['popular']
   },
@@ -733,7 +733,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'رولات دجاج كوردن بلو محشوة بالجبن والبيف المدخن مع بطاطس وموتزاريلا',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ]
   },
   {
@@ -743,7 +743,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'شيش طاووق فراخ مشوي ومتبل بخلطة الزبادي والبهارات مع فلفل ألوان',
     prices: [
       { label: 'كريب', price: 105 },
-      { label: 'كونو', price: 115 }
+      { label: 'كونو', price: 120 }
     ]
   },
   {
@@ -763,7 +763,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'جمبري مقلي كرسبي أو مشوي مع صوص تارتار وموتزاريلا سايحة',
     prices: [
       { label: 'كريب', price: 190 },
-      { label: 'كونو', price: 200 }
+      { label: 'كونو', price: 205 }
     ]
   },
   {
@@ -773,7 +773,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'جمبري وسبيط وكابوريا مع صوصات بحرية وموتزاريلا مضاعفة',
     prices: [
       { label: 'كريب', price: 190 },
-      { label: 'كونو', price: 200 }
+      { label: 'كونو', price: 205 }
     ]
   },
   {
@@ -783,7 +783,7 @@ export const DEFAULT_MENU_ITEMS: MenuItem[] = [
     description: 'سبيشال المحل: تشكيلة دجاج مقرمش ومشوي مع بسطرمة وصوصات خاصة وجبنة موتزاريلا دبل',
     prices: [
       { label: 'كريب', price: 135 },
-      { label: 'كونو', price: 145 }
+      { label: 'كونو', price: 150 }
     ],
     tags: ['popular']
   },
